@@ -85,7 +85,9 @@ public class OuterJoinActivity {
      * |4   |'Writing'  |'The Story Circle Workbook'         |
      * |5   |'Art'      |'Teenage Mutant Ninja Turtles #10'  |
      */
-
+    public static void main(String [] args){
+        
+    }
     public Set<ExampleEntity> problem1() {
         /**
          * Problem 1: In problem1.sql, use a LEFT OUTER JOIN to combine the class (left side) and student

@@ -7,6 +7,8 @@ public class ExampleEntity {
     private String student;
     private String textbook;
 
+
+    
     public ExampleEntity(String topic, String teacher, String student, String textbook) {
         this.topic = topic;
         this.teacher = teacher;
